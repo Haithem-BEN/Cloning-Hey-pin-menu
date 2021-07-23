@@ -7,7 +7,7 @@ In this challenge we are supposed to implement the pin menu (set aside menu) in 
 
 ## Challenging items
 
-make a list of contents looks like a stack
-on clicking on that stack expand all items with a curve
-on clicking outside the stack put items down into stack
+- make a list of contents looks like a stack
+- on clicking on that stack expand all items with a curve
+- on clicking outside the stack put items down into stack
 
